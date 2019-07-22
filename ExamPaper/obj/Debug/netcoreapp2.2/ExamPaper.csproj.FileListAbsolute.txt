@@ -1,0 +1,11 @@
+/Users/v/RiderProjects/ExamPaper/ExamPaper/bin/Debug/netcoreapp2.2/ExamPaper.deps.json
+/Users/v/RiderProjects/ExamPaper/ExamPaper/bin/Debug/netcoreapp2.2/ExamPaper.runtimeconfig.json
+/Users/v/RiderProjects/ExamPaper/ExamPaper/bin/Debug/netcoreapp2.2/ExamPaper.runtimeconfig.dev.json
+/Users/v/RiderProjects/ExamPaper/ExamPaper/bin/Debug/netcoreapp2.2/ExamPaper.dll
+/Users/v/RiderProjects/ExamPaper/ExamPaper/bin/Debug/netcoreapp2.2/ExamPaper.pdb
+/Users/v/RiderProjects/ExamPaper/ExamPaper/obj/Debug/netcoreapp2.2/ExamPaper.csprojAssemblyReference.cache
+/Users/v/RiderProjects/ExamPaper/ExamPaper/obj/Debug/netcoreapp2.2/ExamPaper.csproj.CoreCompileInputs.cache
+/Users/v/RiderProjects/ExamPaper/ExamPaper/obj/Debug/netcoreapp2.2/ExamPaper.AssemblyInfoInputs.cache
+/Users/v/RiderProjects/ExamPaper/ExamPaper/obj/Debug/netcoreapp2.2/ExamPaper.AssemblyInfo.cs
+/Users/v/RiderProjects/ExamPaper/ExamPaper/obj/Debug/netcoreapp2.2/ExamPaper.dll
+/Users/v/RiderProjects/ExamPaper/ExamPaper/obj/Debug/netcoreapp2.2/ExamPaper.pdb
